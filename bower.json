@@ -1,0 +1,17 @@
+{
+  "name": "d3-foresight-bower",
+  "authors": [
+    "satya <satyakonidala@gmail.com>"
+  ],
+  "description": "bower component for d3-foresight(Time series forecasts visualizations using d3)",
+  "main": "time-series.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
